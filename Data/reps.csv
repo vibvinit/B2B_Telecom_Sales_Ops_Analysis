@@ -1,0 +1,13 @@
+rep_id,rep_name,region,segment,annual_quota
+1,Sarah Mitchell,NSW,Enterprise," 820,000 "
+2,James Okonkwo,NSW,SMB," 480,000 "
+3,Priya Sharma,VIC,Enterprise," 750,000 "
+4,Tom Nguyen,VIC,SMB," 420,000 "
+5,Rachel Burns,QLD,Government," 600,000 "
+6,Daniel Ferreira,QLD,Enterprise," 700,000 "
+7,Aisha Patel,NSW,Government," 550,000 "
+8,Chris Lawson,WA,SMB," 390,000 "
+9,Mei Lin,SA,Enterprise," 680,000 "
+10,Ben Tran,NSW,SMB," 440,000 "
+11,Olivia Carter,VIC,Government," 510,000 "
+12,Sam Kowalski,QLD,SMB," 400,000 "
