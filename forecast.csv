@@ -1,0 +1,361 @@
+date,segment,product,forecast_value
+1/01/2023,Enterprise,Fibre,57000
+1/01/2023,Enterprise,Broadband,22000
+1/01/2023,Enterprise,Mobile,15000
+1/01/2023,Enterprise,Managed Network,41000
+1/01/2023,Enterprise,Cloud Connect,39000
+1/01/2023,SMB,Fibre,14000
+1/01/2023,SMB,Broadband,27000
+1/01/2023,SMB,Mobile,20000
+1/01/2023,SMB,Managed Network,7000
+1/01/2023,SMB,Cloud Connect,10000
+1/01/2023,Government,Fibre,41000
+1/01/2023,Government,Broadband,16000
+1/01/2023,Government,Mobile,10000
+1/01/2023,Government,Managed Network,36000
+1/01/2023,Government,Cloud Connect,25000
+1/02/2023,Enterprise,Fibre,60000
+1/02/2023,Enterprise,Broadband,25000
+1/02/2023,Enterprise,Mobile,17000
+1/02/2023,Enterprise,Managed Network,52000
+1/02/2023,Enterprise,Cloud Connect,36000
+1/02/2023,SMB,Fibre,16000
+1/02/2023,SMB,Broadband,31000
+1/02/2023,SMB,Mobile,21000
+1/02/2023,SMB,Managed Network,8000
+1/02/2023,SMB,Cloud Connect,9000
+1/02/2023,Government,Fibre,40000
+1/02/2023,Government,Broadband,16000
+1/02/2023,Government,Mobile,11000
+1/02/2023,Government,Managed Network,42000
+1/02/2023,Government,Cloud Connect,29000
+1/03/2023,Enterprise,Fibre,67000
+1/03/2023,Enterprise,Broadband,22000
+1/03/2023,Enterprise,Mobile,17000
+1/03/2023,Enterprise,Managed Network,50000
+1/03/2023,Enterprise,Cloud Connect,42000
+1/03/2023,SMB,Fibre,16000
+1/03/2023,SMB,Broadband,30000
+1/03/2023,SMB,Mobile,22000
+1/03/2023,SMB,Managed Network,8000
+1/03/2023,SMB,Cloud Connect,10000
+1/03/2023,Government,Fibre,40000
+1/03/2023,Government,Broadband,16000
+1/03/2023,Government,Mobile,10000
+1/03/2023,Government,Managed Network,42000
+1/03/2023,Government,Cloud Connect,30000
+1/04/2023,Enterprise,Fibre,75000
+1/04/2023,Enterprise,Broadband,24000
+1/04/2023,Enterprise,Mobile,18000
+1/04/2023,Enterprise,Managed Network,56000
+1/04/2023,Enterprise,Cloud Connect,43000
+1/04/2023,SMB,Fibre,15000
+1/04/2023,SMB,Broadband,33000
+1/04/2023,SMB,Mobile,25000
+1/04/2023,SMB,Managed Network,7000
+1/04/2023,SMB,Cloud Connect,10000
+1/04/2023,Government,Fibre,43000
+1/04/2023,Government,Broadband,18000
+1/04/2023,Government,Mobile,11000
+1/04/2023,Government,Managed Network,43000
+1/04/2023,Government,Cloud Connect,31000
+1/05/2023,Enterprise,Fibre,80000
+1/05/2023,Enterprise,Broadband,26000
+1/05/2023,Enterprise,Mobile,16000
+1/05/2023,Enterprise,Managed Network,55000
+1/05/2023,Enterprise,Cloud Connect,42000
+1/05/2023,SMB,Fibre,18000
+1/05/2023,SMB,Broadband,33000
+1/05/2023,SMB,Mobile,26000
+1/05/2023,SMB,Managed Network,8000
+1/05/2023,SMB,Cloud Connect,10000
+1/05/2023,Government,Fibre,47000
+1/05/2023,Government,Broadband,18000
+1/05/2023,Government,Mobile,12000
+1/05/2023,Government,Managed Network,42000
+1/05/2023,Government,Cloud Connect,30000
+1/06/2023,Enterprise,Fibre,76000
+1/06/2023,Enterprise,Broadband,26000
+1/06/2023,Enterprise,Mobile,19000
+1/06/2023,Enterprise,Managed Network,56000
+1/06/2023,Enterprise,Cloud Connect,40000
+1/06/2023,SMB,Fibre,15000
+1/06/2023,SMB,Broadband,35000
+1/06/2023,SMB,Mobile,26000
+1/06/2023,SMB,Managed Network,8000
+1/06/2023,SMB,Cloud Connect,11000
+1/06/2023,Government,Fibre,47000
+1/06/2023,Government,Broadband,18000
+1/06/2023,Government,Mobile,13000
+1/06/2023,Government,Managed Network,43000
+1/06/2023,Government,Cloud Connect,32000
+1/07/2023,Enterprise,Fibre,79000
+1/07/2023,Enterprise,Broadband,24000
+1/07/2023,Enterprise,Mobile,19000
+1/07/2023,Enterprise,Managed Network,52000
+1/07/2023,Enterprise,Cloud Connect,45000
+1/07/2023,SMB,Fibre,15000
+1/07/2023,SMB,Broadband,35000
+1/07/2023,SMB,Mobile,27000
+1/07/2023,SMB,Managed Network,9000
+1/07/2023,SMB,Cloud Connect,12000
+1/07/2023,Government,Fibre,47000
+1/07/2023,Government,Broadband,18000
+1/07/2023,Government,Mobile,12000
+1/07/2023,Government,Managed Network,51000
+1/07/2023,Government,Cloud Connect,33000
+1/08/2023,Enterprise,Fibre,76000
+1/08/2023,Enterprise,Broadband,28000
+1/08/2023,Enterprise,Mobile,18000
+1/08/2023,Enterprise,Managed Network,56000
+1/08/2023,Enterprise,Cloud Connect,43000
+1/08/2023,SMB,Fibre,16000
+1/08/2023,SMB,Broadband,38000
+1/08/2023,SMB,Mobile,27000
+1/08/2023,SMB,Managed Network,8000
+1/08/2023,SMB,Cloud Connect,11000
+1/08/2023,Government,Fibre,51000
+1/08/2023,Government,Broadband,18000
+1/08/2023,Government,Mobile,14000
+1/08/2023,Government,Managed Network,46000
+1/08/2023,Government,Cloud Connect,32000
+1/09/2023,Enterprise,Fibre,77000
+1/09/2023,Enterprise,Broadband,28000
+1/09/2023,Enterprise,Mobile,19000
+1/09/2023,Enterprise,Managed Network,53000
+1/09/2023,Enterprise,Cloud Connect,46000
+1/09/2023,SMB,Fibre,19000
+1/09/2023,SMB,Broadband,40000
+1/09/2023,SMB,Mobile,26000
+1/09/2023,SMB,Managed Network,8000
+1/09/2023,SMB,Cloud Connect,12000
+1/09/2023,Government,Fibre,49000
+1/09/2023,Government,Broadband,20000
+1/09/2023,Government,Mobile,12000
+1/09/2023,Government,Managed Network,50000
+1/09/2023,Government,Cloud Connect,30000
+1/10/2023,Enterprise,Fibre,92000
+1/10/2023,Enterprise,Broadband,29000
+1/10/2023,Enterprise,Mobile,19000
+1/10/2023,Enterprise,Managed Network,62000
+1/10/2023,Enterprise,Cloud Connect,50000
+1/10/2023,SMB,Fibre,20000
+1/10/2023,SMB,Broadband,40000
+1/10/2023,SMB,Mobile,29000
+1/10/2023,SMB,Managed Network,8000
+1/10/2023,SMB,Cloud Connect,13000
+1/10/2023,Government,Fibre,51000
+1/10/2023,Government,Broadband,23000
+1/10/2023,Government,Mobile,14000
+1/10/2023,Government,Managed Network,48000
+1/10/2023,Government,Cloud Connect,37000
+1/11/2023,Enterprise,Fibre,79000
+1/11/2023,Enterprise,Broadband,28000
+1/11/2023,Enterprise,Mobile,19000
+1/11/2023,Enterprise,Managed Network,62000
+1/11/2023,Enterprise,Cloud Connect,48000
+1/11/2023,SMB,Fibre,19000
+1/11/2023,SMB,Broadband,36000
+1/11/2023,SMB,Mobile,30000
+1/11/2023,SMB,Managed Network,9000
+1/11/2023,SMB,Cloud Connect,12000
+1/11/2023,Government,Fibre,51000
+1/11/2023,Government,Broadband,23000
+1/11/2023,Government,Mobile,14000
+1/11/2023,Government,Managed Network,58000
+1/11/2023,Government,Cloud Connect,34000
+1/12/2023,Enterprise,Fibre,86000
+1/12/2023,Enterprise,Broadband,30000
+1/12/2023,Enterprise,Mobile,22000
+1/12/2023,Enterprise,Managed Network,61000
+1/12/2023,Enterprise,Cloud Connect,54000
+1/12/2023,SMB,Fibre,21000
+1/12/2023,SMB,Broadband,40000
+1/12/2023,SMB,Mobile,28000
+1/12/2023,SMB,Managed Network,9000
+1/12/2023,SMB,Cloud Connect,14000
+1/12/2023,Government,Fibre,54000
+1/12/2023,Government,Broadband,24000
+1/12/2023,Government,Mobile,15000
+1/12/2023,Government,Managed Network,59000
+1/12/2023,Government,Cloud Connect,37000
+1/01/2024,Enterprise,Fibre,67000
+1/01/2024,Enterprise,Broadband,22000
+1/01/2024,Enterprise,Mobile,14000
+1/01/2024,Enterprise,Managed Network,46000
+1/01/2024,Enterprise,Cloud Connect,38000
+1/01/2024,SMB,Fibre,14000
+1/01/2024,SMB,Broadband,30000
+1/01/2024,SMB,Mobile,20000
+1/01/2024,SMB,Managed Network,8000
+1/01/2024,SMB,Cloud Connect,10000
+1/01/2024,Government,Fibre,41000
+1/01/2024,Government,Broadband,18000
+1/01/2024,Government,Mobile,11000
+1/01/2024,Government,Managed Network,41000
+1/01/2024,Government,Cloud Connect,25000
+1/02/2024,Enterprise,Fibre,75000
+1/02/2024,Enterprise,Broadband,23000
+1/02/2024,Enterprise,Mobile,16000
+1/02/2024,Enterprise,Managed Network,48000
+1/02/2024,Enterprise,Cloud Connect,39000
+1/02/2024,SMB,Fibre,17000
+1/02/2024,SMB,Broadband,34000
+1/02/2024,SMB,Mobile,25000
+1/02/2024,SMB,Managed Network,8000
+1/02/2024,SMB,Cloud Connect,11000
+1/02/2024,Government,Fibre,41000
+1/02/2024,Government,Broadband,19000
+1/02/2024,Government,Mobile,11000
+1/02/2024,Government,Managed Network,46000
+1/02/2024,Government,Cloud Connect,27000
+1/03/2024,Enterprise,Fibre,82000
+1/03/2024,Enterprise,Broadband,24000
+1/03/2024,Enterprise,Mobile,17000
+1/03/2024,Enterprise,Managed Network,50000
+1/03/2024,Enterprise,Cloud Connect,42000
+1/03/2024,SMB,Fibre,16000
+1/03/2024,SMB,Broadband,37000
+1/03/2024,SMB,Mobile,23000
+1/03/2024,SMB,Managed Network,8000
+1/03/2024,SMB,Cloud Connect,12000
+1/03/2024,Government,Fibre,43000
+1/03/2024,Government,Broadband,18000
+1/03/2024,Government,Mobile,11000
+1/03/2024,Government,Managed Network,46000
+1/03/2024,Government,Cloud Connect,32000
+1/04/2024,Enterprise,Fibre,80000
+1/04/2024,Enterprise,Broadband,28000
+1/04/2024,Enterprise,Mobile,18000
+1/04/2024,Enterprise,Managed Network,59000
+1/04/2024,Enterprise,Cloud Connect,44000
+1/04/2024,SMB,Fibre,16000
+1/04/2024,SMB,Broadband,37000
+1/04/2024,SMB,Mobile,26000
+1/04/2024,SMB,Managed Network,9000
+1/04/2024,SMB,Cloud Connect,13000
+1/04/2024,Government,Fibre,53000
+1/04/2024,Government,Broadband,21000
+1/04/2024,Government,Mobile,12000
+1/04/2024,Government,Managed Network,52000
+1/04/2024,Government,Cloud Connect,34000
+1/05/2024,Enterprise,Fibre,78000
+1/05/2024,Enterprise,Broadband,29000
+1/05/2024,Enterprise,Mobile,20000
+1/05/2024,Enterprise,Managed Network,59000
+1/05/2024,Enterprise,Cloud Connect,47000
+1/05/2024,SMB,Fibre,16000
+1/05/2024,SMB,Broadband,35000
+1/05/2024,SMB,Mobile,25000
+1/05/2024,SMB,Managed Network,9000
+1/05/2024,SMB,Cloud Connect,12000
+1/05/2024,Government,Fibre,45000
+1/05/2024,Government,Broadband,19000
+1/05/2024,Government,Mobile,13000
+1/05/2024,Government,Managed Network,49000
+1/05/2024,Government,Cloud Connect,34000
+1/06/2024,Enterprise,Fibre,92000
+1/06/2024,Enterprise,Broadband,26000
+1/06/2024,Enterprise,Mobile,19000
+1/06/2024,Enterprise,Managed Network,64000
+1/06/2024,Enterprise,Cloud Connect,50000
+1/06/2024,SMB,Fibre,20000
+1/06/2024,SMB,Broadband,40000
+1/06/2024,SMB,Mobile,28000
+1/06/2024,SMB,Managed Network,9000
+1/06/2024,SMB,Cloud Connect,11000
+1/06/2024,Government,Fibre,50000
+1/06/2024,Government,Broadband,19000
+1/06/2024,Government,Mobile,13000
+1/06/2024,Government,Managed Network,50000
+1/06/2024,Government,Cloud Connect,32000
+1/07/2024,Enterprise,Fibre,86000
+1/07/2024,Enterprise,Broadband,26000
+1/07/2024,Enterprise,Mobile,19000
+1/07/2024,Enterprise,Managed Network,59000
+1/07/2024,Enterprise,Cloud Connect,45000
+1/07/2024,SMB,Fibre,19000
+1/07/2024,SMB,Broadband,34000
+1/07/2024,SMB,Mobile,27000
+1/07/2024,SMB,Managed Network,10000
+1/07/2024,SMB,Cloud Connect,13000
+1/07/2024,Government,Fibre,53000
+1/07/2024,Government,Broadband,21000
+1/07/2024,Government,Mobile,15000
+1/07/2024,Government,Managed Network,51000
+1/07/2024,Government,Cloud Connect,35000
+1/08/2024,Enterprise,Fibre,79000
+1/08/2024,Enterprise,Broadband,29000
+1/08/2024,Enterprise,Mobile,18000
+1/08/2024,Enterprise,Managed Network,66000
+1/08/2024,Enterprise,Cloud Connect,47000
+1/08/2024,SMB,Fibre,20000
+1/08/2024,SMB,Broadband,40000
+1/08/2024,SMB,Mobile,27000
+1/08/2024,SMB,Managed Network,9000
+1/08/2024,SMB,Cloud Connect,13000
+1/08/2024,Government,Fibre,53000
+1/08/2024,Government,Broadband,21000
+1/08/2024,Government,Mobile,15000
+1/08/2024,Government,Managed Network,53000
+1/08/2024,Government,Cloud Connect,35000
+1/09/2024,Enterprise,Fibre,86000
+1/09/2024,Enterprise,Broadband,29000
+1/09/2024,Enterprise,Mobile,21000
+1/09/2024,Enterprise,Managed Network,67000
+1/09/2024,Enterprise,Cloud Connect,48000
+1/09/2024,SMB,Fibre,19000
+1/09/2024,SMB,Broadband,41000
+1/09/2024,SMB,Mobile,26000
+1/09/2024,SMB,Managed Network,10000
+1/09/2024,SMB,Cloud Connect,13000
+1/09/2024,Government,Fibre,57000
+1/09/2024,Government,Broadband,23000
+1/09/2024,Government,Mobile,13000
+1/09/2024,Government,Managed Network,53000
+1/09/2024,Government,Cloud Connect,37000
+1/10/2024,Enterprise,Fibre,88000
+1/10/2024,Enterprise,Broadband,32000
+1/10/2024,Enterprise,Mobile,22000
+1/10/2024,Enterprise,Managed Network,65000
+1/10/2024,Enterprise,Cloud Connect,55000
+1/10/2024,SMB,Fibre,19000
+1/10/2024,SMB,Broadband,44000
+1/10/2024,SMB,Mobile,32000
+1/10/2024,SMB,Managed Network,9000
+1/10/2024,SMB,Cloud Connect,13000
+1/10/2024,Government,Fibre,61000
+1/10/2024,Government,Broadband,21000
+1/10/2024,Government,Mobile,15000
+1/10/2024,Government,Managed Network,55000
+1/10/2024,Government,Cloud Connect,34000
+1/11/2024,Enterprise,Fibre,92000
+1/11/2024,Enterprise,Broadband,29000
+1/11/2024,Enterprise,Mobile,22000
+1/11/2024,Enterprise,Managed Network,67000
+1/11/2024,Enterprise,Cloud Connect,53000
+1/11/2024,SMB,Fibre,21000
+1/11/2024,SMB,Broadband,44000
+1/11/2024,SMB,Mobile,32000
+1/11/2024,SMB,Managed Network,10000
+1/11/2024,SMB,Cloud Connect,15000
+1/11/2024,Government,Fibre,59000
+1/11/2024,Government,Broadband,24000
+1/11/2024,Government,Mobile,17000
+1/11/2024,Government,Managed Network,59000
+1/11/2024,Government,Cloud Connect,41000
+1/12/2024,Enterprise,Fibre,88000
+1/12/2024,Enterprise,Broadband,30000
+1/12/2024,Enterprise,Mobile,21000
+1/12/2024,Enterprise,Managed Network,73000
+1/12/2024,Enterprise,Cloud Connect,57000
+1/12/2024,SMB,Fibre,19000
+1/12/2024,SMB,Broadband,39000
+1/12/2024,SMB,Mobile,31000
+1/12/2024,SMB,Managed Network,10000
+1/12/2024,SMB,Cloud Connect,14000
+1/12/2024,Government,Fibre,62000
+1/12/2024,Government,Broadband,25000
+1/12/2024,Government,Mobile,16000
+1/12/2024,Government,Managed Network,53000
+1/12/2024,Government,Cloud Connect,41000
