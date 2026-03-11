@@ -75,6 +75,7 @@ and a custom Date table.
 ## Key DAX Measures
 ```dax
 -- Stale Deals
+
 Stale_Deals = CALCULATE(COUNTROWS(deals),
               deals[stage] <> "Closed Won",
               deals[stage] <> "Lost",
@@ -82,6 +83,7 @@ Stale_Deals = CALCULATE(COUNTROWS(deals),
                         )
 
 -- Sales Rep Commission
+
 Commission Rate = SWITCH(TRUE(),
                   [% achievement]<0.8,0.08,
                   [% achievement]<1,0.10,
@@ -92,6 +94,7 @@ Base Commission = SUMX(monthly_performance, monthly_performance[revenue_actual]*
 Total Commission = [Base Commission] + SUM(monthly_performance[spif_bonus])
 
 -- Weighted Pipeline (probability-adjusted)
+
 Weighted Pipeline = SUMX(deals,
                     deals[deal_value] *
                     SWITCH(deals[stage],
@@ -104,6 +107,7 @@ Weighted Pipeline = SUMX(deals,
                     )
 
 -- Pipeline Coverage
+
 Pipeline Coverage = DIVIDE([Weighted Pipeline], SUM(monthly_performance[revenue_target]))
 
 -- NPS Score - Promoters, detractors, Passives
