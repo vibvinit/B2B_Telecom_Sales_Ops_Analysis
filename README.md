@@ -166,6 +166,7 @@ Forecast Var % = DIVIDE([Revenue]-[Forecast_Val],[Forecast_Val])
 5.	Prioritise Fibre product sales, as improvements in this category can significantly impact overall revenue growth.
 6.	Implement early risk monitoring for SMB customers to reduce revenue loss from consolidation and bankruptcy.
 
+---
 
 ## Tools & Skills
 
