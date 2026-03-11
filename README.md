@@ -2,7 +2,7 @@
 
 An end-to-end Sales Operations Report built in Power BI, simulating a national B2B telecom business across Enterprise, SMB and Government segments.
 
-![Executive Summary](Report/Screenshots/1. Executive_Summary.png)
+![Executive Summary](Report/Screenshots/1_Executive_Summary.png)
 
 ---
 
@@ -23,7 +23,7 @@ An end-to-end Sales Operations Report built in Power BI, simulating a national B
 
 A B2B telecom sales organisation needed visibility across four critical areas that were previously tracked in disconnected spreadsheets:
 
-- Are reps hitting quota and what's driving the gap?
+- Are reps hitting quota, and what's driving the gap?
 - Is there enough pipeline to cover next quarter's target?
 - Which customers are at risk of churning and why?
 - How does actual revenue track against forecast and budget?
@@ -36,22 +36,22 @@ This report consolidates all four into a single Power BI solution.
 ### 1. Executive Summary
 Revenue vs budget vs forecast by month, segment and product breakdown, net ARR movement and churn analysis by reason.
 
-![Executive Summary](Report/Screenshots/1. Executive_Summary.png)
+![Executive Summary](Report/Screenshots/1_Executive_Summary.png)
 
 ### 2. Pipeline Health
 Weighted pipeline, pipeline coverage ratio, deal funnel by stage, and stale deal identification with conditional formatting.
 
-![Pipeline Health](Report/Screenshots/2. Pipeline_Health.png)
+![Pipeline Health](Report/Screenshots/2_Pipeline_Health.png)
 
 ### 3. Sales Rep Performance
 Full rep performance matrix — quota attainment, win rate, avg deal size, sales cycle, activity metrics, commission calculation and NPS attribution.
 
-![Rep Scorecard](Report/Screenshots/3. Sales_Rep_Performance.png)
+![Rep Scorecard](Report/Screenshots/3_Sales_Rep_Performance.png)
 
 ### 4. Customer Health
 NPS score by segment and product, churn analysis by reason.
 
-![Customer Health](Report/Screenshots/4. Customer_Health.png)
+![Customer Health](Report/Screenshots/4_Customer_Health.png)
 
 ---
 
